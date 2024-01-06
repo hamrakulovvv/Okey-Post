@@ -8,28 +8,28 @@ function PricePage() {
           <div className="container py-20 flex justify-between items-center">
 
               <div className='w-72 card'>
-                <img src="./public/images/price1.png" alt="" />
+                <img src="./images/price1.png" alt="" />
                 <h1 className='text-2xl font-bold pt-5'>Ваш личный адрес <br /> для покупок</h1>
                 <span className='font-extralight text-lg leading-9'>на нашем современном <br /> автоматизированном складе в <br />безналоговом Делавэре</span> <br />
                 <a className='px-20 py-4 bg-sky-500 text-white inline-block mt-10 rounded-xl' href="#">Бесплатно</a>
               </div>
 
               <div className='w-72 card'>
-                <img src="./public/images/price2.png" alt="" />
+                <img src="./images/price2.png" alt="" />
                 <h1 className='text-2xl font-bold pt-5'>Объединение нескольких  <br />посылок в одну</h1>
                 <span className='font-extralight text-lg leading-9'>ведь часто отправлять несколько <br /> посылок в одной коробке гораздо <br />выгоднее, чем по одной</span> <br />
                 <a className='px-20 py-4 bg-sky-500 text-white inline-block mt-3 rounded-xl' href="#">Бесплатно</a>
               </div>
 
               <div className='w-72 card'>
-                <img src="./public/images/price3.png" alt="" />
+                <img src="./images/price3.png" alt="" />
                 <h1 className='text-2xl font-bold pt-5'>Усиленная упаковка <br /> по запросу</h1>
                 <span className='font-extralight text-lg leading-9'>Мы дополнительно упакуем вашу <br /> посылку в пленку, коробку с <br />двойными стенками.</span> <br />
                 <a className='px-20 py-4 bg-sky-500 text-white inline-block mt-7 rounded-xl' href="#">Бесплатно</a>
               </div>
 
               <div className='w-72 card'>
-                <img src="./public/images/price4.png" alt="" />
+                <img src="./images/price4.png" alt="" />
                 <h1 className='text-2xl font-bold pt-5'>Хранение входящих <br />посылок 30 дней</h1>
                 <span className='font-extralight text-lg leading-9'>чем больше срок хранения <br /> посылок на складе – тем больше <br /> вы сможете собрать</span> <br />
                 <a className='px-20 py-4 bg-sky-500 text-white inline-block mt-12 rounded-xl' href="#">Бесплатно</a>
@@ -46,19 +46,19 @@ function PricePage() {
             </div>
             <div className='flex justify-between mt-7'>
                     <div>
-                        <img src="./public/images/imgs1.png" alt="" />
+                        <img src="./images/imgs1.png" alt="" />
                     </div>
                     <div>
-                        <img src="./public/images/imgs2.png" alt="" />
+                        <img src="./images/imgs2.png" alt="" />
                     </div>
                     <div>
-                        <img src="./public/images/imgs3.png" alt="" />
+                        <img src="./images/imgs3.png" alt="" />
                     </div>
                     <div>
-                        <img src="./public/images/imgs4.png" alt="" />
+                        <img src="./images/imgs4.png" alt="" />
                     </div>
                     <div>
-                        <img src="./public/images/imgs5.png" alt="" />
+                        <img src="./images/imgs5.png" alt="" />
                     </div>
                 </div>
                 <a href="#" className=' bg-green-500 py-5 px-20 rounded-3xl mt-10 inline-block text-white mb-5'>Рассчитать</a>
@@ -74,7 +74,7 @@ function PricePage() {
 
                     <div className='py-10 flex justify-between'>
                         <div className='flex items-center gap-5'>
-                            <img src="./public/images/i1.png" alt="" />
+                            <img src="./images/i1.png" alt="" />
                             <b>Почта России</b>
                         </div>
                         <div className='flex gap-14 items-center'>
@@ -91,14 +91,14 @@ function PricePage() {
                                 <b>£41.99</b>
                             </div>
                             <div>
-                                <img src="./public/images/gal.png" alt="" />
+                                <img src="./images/gal.png" alt="" />
                             </div>
                         </div>
                     </div>
 
                     <div className='py-10 flex justify-between'>
                         <div className='flex items-center gap-5'>
-                            <img src="./public/images/i2.png" alt="" />
+                            <img src="./images/i2.png" alt="" />
                             <b>EMS ПОЧТА РОССИЯ</b>
                         </div>
                         <div className='flex gap-14 items-center'>
@@ -115,14 +115,14 @@ function PricePage() {
                                 <b>£54.55</b>
                             </div>
                             <div>
-                                <img src="./public/images/gal.png" alt="" />
+                                <img src="./images/gal.png" alt="" />
                             </div>
                         </div>
                     </div>
 
                     <div className='py-10 flex justify-between'>
                         <div className='flex items-center gap-5'>
-                            <img src="./public/images/i2.png" alt="" />
+                            <img src="./images/i2.png" alt="" />
                             <b>ПОЧТА РОССИИ МЕЛКИЕ ПАКЕТЫ</b>
                         </div>
                         <div className='flex gap-14 items-center'>
@@ -139,7 +139,7 @@ function PricePage() {
                                 <b>£90.50</b>
                             </div>
                             <div>
-                                <img src="./public/images/gal.png" alt="" />
+                                <img src="./images/gal.png" alt="" />
                             </div>
                         </div>
                     </div>

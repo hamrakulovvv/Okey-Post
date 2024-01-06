@@ -20,37 +20,37 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что делать, если Вы забыли внести трек номер на сайт, а заказ уже пришел?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как я узнаю что заказ пришел на склад?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Покупки на Eбeй / Ebay</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что делать после того, как я выкупил заказ самостоятельно на ваш адресс?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как купить на виртуальный адрес?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Сколько стоит виртуальный адрес?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как купить на виртуальный адрес?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
             </div>
 
@@ -65,37 +65,37 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Анонс скидочныx купонов и промкодов</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как я узнаю что заказ пришел на склад?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что такое выкуп в компашке?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что делать после того, как я выкупил заказ самостоятельно на ваш адресс?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Можно ли купить с частичной предоплатой?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Сколько стоит виртуальный адрес?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что такое обычный заказ?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
             </div>
 
@@ -110,32 +110,32 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как часто вы отправляете посылки в россию?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как я узнаю что заказ пришел на склад?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что такое выкуп в компашке?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что делать после того, как я выкупил заказ самостоятельно на ваш адресс?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Можно ли купить с частичной предоплатой?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что такое обычный заказ?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
             </div>
 
@@ -150,17 +150,17 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Где найти реквизиты для оплаты? и как оплатить?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как оплатить через пайпал?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Какие способы оплаты вы принимаете из России??</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
             </div>
@@ -176,37 +176,37 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Какой ваш Емайл? Как с вами Связаться ? Какой график работы?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Я xочу разделить заказ на несколько получателей, как это сделать и сколько стоит?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Купил на Ebay, продавец не отправляет заказ, нужен самовывоз. Сколько стоит и как оформить?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Сколько стоит удаления вешалок и коробок??</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Какой срок бесплатного xранения?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Сколько стоит консолидация?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как расчитать стоимость услуг и доставки?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
             </div>
 
@@ -222,32 +222,32 @@ function AnswerPage() {
             <div>
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как отследить посылку, отправленную почтой России?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Где найти трек номер на отправленную вами посылку?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Что такое адресная книга? Зачем ее заполнять, если адрес есть в моем профайле?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как заполнить декларацию, зачем ее заполнять, если лимит не превышен?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как отправить посылку? Как сделать запрос? Сколько это стоит?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
 
                 <div className='flex justify-between items-center py-5'>
                     <span className='text-lg font-bold'>Как отправить несколько заказов в одной посылке? Сколько это стоит?</span>
-                    <b><img src="./public/images/arr.png" alt="" /></b>
+                    <b><img src="./images/arr.png" alt="" /></b>
                 </div>
             </div>
 
@@ -265,9 +265,9 @@ function AnswerPage() {
                         </div>
 
                         <div className='flex gap-5 cursor-pointer'>
-                            <div><img src="./public/images/wats2.png" alt="" /></div>
-                            <div><img src="./public/images/vibe2.png" alt="" /></div>
-                            <div><img src="./public/images/chat2.png" alt="" /></div>
+                            <div><img src="./images/wats2.png" alt="" /></div>
+                            <div><img src="./images/vibe2.png" alt="" /></div>
+                            <div><img src="./images/chat2.png" alt="" /></div>
                         </div>
 
                     </div>

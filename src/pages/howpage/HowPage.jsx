@@ -14,7 +14,7 @@ function HowPage() {
 
                     <div className='flex justify-center gap-40'>
                         <div>
-                            <img src="./public/images/secondPage1.png" alt="" />
+                            <img src="./images/secondPage1.png" alt="" />
                         </div>
                         <div>
 
@@ -30,7 +30,7 @@ function HowPage() {
 
                     <div className='flex justify-center gap-40'>
                         <div>
-                            <img src="./public/images/secondPage2.png" alt="" />
+                            <img src="./images/secondPage2.png" alt="" />
                         </div>
                         <div>
 
@@ -46,7 +46,7 @@ function HowPage() {
 
                     <div className='flex justify-center gap-40'>
                         <div>
-                            <img src="./public/images/secondPage3.png" alt="" />
+                            <img src="./images/secondPage3.png" alt="" />
                         </div>
                         <div>
 
@@ -62,7 +62,7 @@ function HowPage() {
 
                     <div className='flex justify-center gap-40'>
                         <div>
-                            <img src="./public/images/secondPage4.png" alt="" />
+                            <img src="./images/secondPage4.png" alt="" />
                         </div>
                         <div>
 
@@ -78,7 +78,7 @@ function HowPage() {
 
                     <div className='flex justify-center gap-40'>
                         <div>
-                            <img src="./public/images/secondPage5.png" alt="" />
+                            <img src="./images/secondPage5.png" alt="" />
                         </div>
                         <div>
 
@@ -108,9 +108,9 @@ function HowPage() {
                         </div>
 
                         <div className='flex gap-5 cursor-pointer'>
-                            <div><img src="./public/images/wats2.png" alt="" /></div>
-                            <div><img src="./public/images/vibe2.png" alt="" /></div>
-                            <div><img src="./public/images/chat2.png" alt="" /></div>
+                            <div><img src="./images/wats2.png" alt="" /></div>
+                            <div><img src="./images/vibe2.png" alt="" /></div>
+                            <div><img src="./images/chat2.png" alt="" /></div>
                         </div>
 
                     </div>
