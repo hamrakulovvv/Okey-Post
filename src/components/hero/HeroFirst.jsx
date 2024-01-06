@@ -16,7 +16,7 @@ function HeroFirst() {
                 </div>
 
                 <div>
-                    <img src="../public/images/hero.png" alt="" />
+                    <img src="public/images/hero.png" alt="" />
                 </div>
             </div>
         </div>

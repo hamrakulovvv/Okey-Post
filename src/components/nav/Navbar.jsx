@@ -9,7 +9,7 @@ function Navbar({setLogin}) {
             <div className="container flex justify-between items-center">
 
                 <NavLink to={"/"} className='cursor-pointer'>
-                    <img src="/public/images/logo.png" alt="" />
+                    <img src="public/images/logo.png" alt="" />
                 </NavLink>
                 <ul className='flex justify-center gap-10 text-sm font-semibold'>
                     <li><NavLink to={"/howPage"}>Как покупать</NavLink></li>
