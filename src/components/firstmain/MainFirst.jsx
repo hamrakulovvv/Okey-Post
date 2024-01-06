@@ -171,7 +171,6 @@ function MainFirst() {
                     <h1 className='text-3xl font-bold'>Варианты доставки:</h1>
                 </div>
                 <div className='cards'>
-
                     <div className='py-10 flex justify-between'>
                         <div className='flex items-center gap-5'>
                             <img src="./public/images/i1.png" alt="" />
@@ -249,11 +248,9 @@ function MainFirst() {
         </section>
         <section>
             <div className="container py-10">
-
                 <div>
                     <h1 className='text-3xl font-extrabold'>4 простых шага для ваших <br /> покупок в Великобритании </h1>
                 </div>
-
                 <div className='flex justify-between items-center py-10'>
                     <div className='py-5'>
                         <div>
