@@ -1,0 +1,32 @@
+body{
+    position: relative;
+}
+
+.login_form{
+    width: 550px;
+    height: 700px;
+    position: fixed;
+    z-index: 100;
+    top: 7%;
+    right: 50%;
+    transform: translate(50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form svg{
+    right: 0px;
+    position: absolute;
+    top: 0px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.login{
+    width: 480px;
+    height: 640px;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
